@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FloppaDev4000
-- 👀 I’m interested in floppa
-- 🌱 I’m currently learning floppaScript
-- 💞️ I’m looking to collaborate on my new floppa
-- 📫 How to reach me >> carrier pigeon
+- 👋 Hi, I’m Adam!
+- 👀 I’m interested in EVERYTHING!
+- 🌱 I’m currently learning Python & Java
+- 💞️ I’m not looking to collborate on anything right now
+- 📫 How to reach me >> i don't know
 
 <!---
 FloppaDev4000/FloppaDev4000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
