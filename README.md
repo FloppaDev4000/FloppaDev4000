@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam!
 - 👀 I’m interested in EVERYTHING!
-- 🌱 I’m currently learning Python & Java
+- 🌱 I’m currently learning Python, GDscript & Java
 - 💞️ I’m not looking to collaborate on anything right now. Maybe soon!
 - 📫 How to reach me >> i don't know
 
