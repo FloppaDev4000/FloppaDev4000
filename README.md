@@ -1,5 +1,5 @@
 - Hi, I’m Adam!
-- I’m interested in automation, gamedev and low-level development
+- I’m interested in mathematics, gamedev and low-level development
 - I’m currently learning Python, C and C++
 - I also have an [itch.io page!](https://floppaman.itch.io) Go check out my games!
 <!---
