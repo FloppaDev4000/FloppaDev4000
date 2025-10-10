@@ -36,6 +36,18 @@
 
 ###
 
+<h3 align="left">💻  My Projects</h3>
+
+###
+
+<p align="left">
+  - 🎥 <a href="https://github.com/FloppaDev4000/RayMarcher3d">A 3D Ray-Marching Renderer</a><br>
+  - 💾 <a href="https://github.com/FloppaDev4000/Games-Fleadh-2025">Antopia - A Video Game in Assembly</a><br>
+  - 📱 <a href="https://github.com/FloppaDev4000/artShare">ArtShare - A Mock-Up Social Media Platform</a>
+</p>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
