@@ -1,5 +1,8 @@
 <div align="center">
   <img height="150" src="media/silly.png"  />
+  <img height="150" src="media/art.png"  />
+  <img height="150" src="media/do.png"  />
+  <img height="150" src="media/edu.png"  />
 </div>
 
 ###
