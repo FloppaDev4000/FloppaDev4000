@@ -28,22 +28,22 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">- 🔭 I’m studying software development<br>- 📚 I'm currently learning C++, python, Flutter<br>- ⚡ In my free time I like to make music</p>
+<p align="left">- I’m studying software development<br>- I'm currently learning C++, python, Flutter<br>- In my free time I like to make music</p>
 
 ###
 
-<h3 align="left">💻  My Projects</h3>
+<h3 align="left">My Projects</h3>
 
 ###
 
 <p align="left">
-  - 🎥 <a href="https://github.com/FloppaDev4000/RayMarcher3d">A 3D Ray-Marching Renderer</a><br>
-  - 💾 <a href="https://github.com/FloppaDev4000/Games-Fleadh-2025">Antopia - A Video Game in Assembly</a><br>
-  - 📱 <a href="https://github.com/FloppaDev4000/artShare">ArtShare - A Mock-Up Social Media Platform</a>
+  - <a href="https://github.com/FloppaDev4000/RayMarcher3d">A 3D Ray-Marching Renderer</a><br>
+  - <a href="https://github.com/FloppaDev4000/Games-Fleadh-2025">Antopia - A Video Game in Assembly</a><br>
+  - <a href="https://github.com/FloppaDev4000/artShare">ArtShare - A Mock-Up Social Media Platform</a>
 </p>
 
 ###
@@ -83,7 +83,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My Stats :</h3>
 
 ###
 
