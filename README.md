@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- I’m studying software development<br>- I'm currently learning C++, python, Flutter<br>- In my free time I like to make music</p>
+<p align="left">- I’m studying software development<br>- I'm currently learning Go, Django<br>- In my free time I like to make music</p>
 
 ###
 
